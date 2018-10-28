@@ -1,4 +1,4 @@
-This repository contains the python code for 3-question based a technicat test.
+This repository contains the python code for 3-question based technical test.
 
 The file named 'test.py' is specially used to run the test related to compre LEXICOGRAPHICALLY two input strings.
 
